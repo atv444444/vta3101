@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Si te molesta te aguantas.
+=======
+Te ponemos nervioso te jodes.
+>>>>>>> Prueba
